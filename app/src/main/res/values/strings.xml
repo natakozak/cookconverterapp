@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="app_name">Cook Converter</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">Convert</string>
 </resources>
